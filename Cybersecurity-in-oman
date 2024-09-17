@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Cybersecurity in Oman Blog">
+    <title>Cybersecurity in Oman</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f9f7;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007b7b;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        nav {
+            margin: 20px;
+            text-align: center;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #007b7b;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #004f4f;
+        }
+        main {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        article {
+            margin-bottom: 40px;
+        }
+        article h2 {
+            color: #007b7b;
+            font-size: 1.8em;
+        }
+        article p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #007b7b;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cybersecurity in Oman</h1>
+        <p>Insights on IT & OT Cybersecurity</p>
+    </header>
+
+    <nav>
+        <a href="#articles">Articles</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <main>
+        <section id="articles">
+            <article>
+                <h2>The State of IT Cybersecurity in Oman</h2>
+                <p>In recent years, Oman has made significant strides in bolstering its IT cybersecurity infrastructure. With a growing number of digital platforms, the need to protect sensitive data has never been more critical. This article explores the current trends and challenges in IT security across various sectors in Oman.</p>
+            </article>
+
+            <article>
+                <h2>Operational Technology (OT) Cybersecurity: Unique Challenges in Oman</h2>
+                <p>While IT cybersecurity focuses on protecting data, OT cybersecurity ensures the safety and integrity of physical systems, such as industrial control systems. In Oman, where industries like oil & gas are critical, securing these systems is vital to national infrastructure. This article discusses the specific challenges and solutions for OT cybersecurity in the country.</p>
+            </article>
+
+            <article>
+                <h2>Emerging Cyber Threats in Oman: What You Need to Know</h2>
+                <p>As cyber threats evolve, Oman is no exception to the rising challenges. From ransomware to advanced persistent threats (APTs), this article covers the latest trends and what organizations in Oman should be aware of to mitigate risks effectively.</p>
+            </article>
+        </section>
+
+        <section id="about">
+            <h2>About the Blog</h2>
+            <p>This blog is dedicated to exploring the latest developments in cybersecurity within Oman. Focusing on both IT and OT perspectives, we aim to provide insights, news, and solutions tailored to the unique landscape of Oman’s digital and industrial sectors.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>For any inquiries or suggestions, feel free to contact us at: <a href="mailto:info@cyberoman.com">info@cyberoman.com</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Cybersecurity in Oman Blog</p>
+    </footer>
+</body>
+</html>
